@@ -4,7 +4,7 @@
 
 ### Overview
 * This Power BI project provides a comprehensive analysis of retail sales data, focusing on various aspects such as product category sales distribution, sales trends, units sales by product category and gender, sales method comparison, regional sales analysis, and top-performing cities by operating profit.
- ![image](https://github.com/ayeshasidhikha188/Power-Bi-Project-on-Adidas-Sales-Data-/assets/147414813/fa4491d1-6b3c-42be-979d-b5bded0f9177)
+ 
 ![image](https://github.com/ayeshasidhikha188/Power-Bi-Project-on-Adidas-Sales-Data-/assets/147414813/11007e9b-430c-4883-bbf0-a344f9825b1d)
 ![image](https://github.com/ayeshasidhikha188/Power-Bi-Project-on-Adidas-Sales-Data-/assets/147414813/62433524-fa1f-40eb-846c-511cc5356778)
 
